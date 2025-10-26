@@ -1,0 +1,16 @@
+{
+  "name": "larisa-translator-website",
+  "version": "1.0.0",
+  "description": "Professional website for Larisa Martynova - Russian Interpreter in Leipzig",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve"
+  },
+  "keywords": ["interpreter", "translator", "russian", "german", "leipzig"],
+  "author": "Larisa Martynova",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
