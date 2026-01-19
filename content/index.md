@@ -32,7 +32,7 @@ description: Beeidigte Dolmetscherin für die russische Sprache in Leipzig - Lar
                 Konferenzdolmetscherin, <strong>staatlich geprüfte und allgemein beeidigte</strong> Gerichts- und Behördendolmetscherin für die russische Sprache
             </p>
             <p class="text-gray-600 mt-4">
-                Mitglied im Bundesverband der Dolmetscher und Übersetzer (BDÜ)
+                Mitglied im <a href="https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Larisa-Martynova" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">Bundesverband der Dolmetscher und Übersetzer (BDÜ)</a>
             </p>
         </div>
     </div>

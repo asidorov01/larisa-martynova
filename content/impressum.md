@@ -40,7 +40,8 @@ description: Impressum - Larisa Martynova
             <p class="mb-4">
                 <strong>Mitgliedschaft:</strong><br>
                 Bundesverband der Dolmetscher und Übersetzer e.V. (BDÜ)<br>
-                <a href="https://www.bdue.de" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">www.bdue.de</a>
+                <a href="https://www.bdue.de" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">www.bdue.de</a><br>
+                <a href="https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Larisa-Martynova" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">Mein BDÜ-Profil</a>
             </p>
 
             <h3 class="text-xl font-semibold mt-6 mb-3">Haftung für Inhalte</h3>

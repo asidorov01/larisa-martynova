@@ -32,7 +32,7 @@ description: Присяжный переводчик русского языка
                 Переводчик-синхронист, <strong>государственно аттестованный и присяжный</strong> судебный переводчик русского языка
             </p>
             <p class="text-gray-600 mt-4">
-                Член Федерального союза переводчиков Германии (BDÜ)
+                Член <a href="https://bdue.de/suche-uebersetzer-dolmetscher/mitglied/Larisa-Martynova" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">Федерального союза переводчиков Германии (BDÜ)</a>
             </p>
         </div>
     </div>
