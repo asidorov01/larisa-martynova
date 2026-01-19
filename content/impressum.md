@@ -64,7 +64,7 @@ description: Impressum - Larisa Martynova
             </p>
 
             <p class="mt-8 text-sm text-gray-600">
-                Stand: <span class="current-year">2024</span>
+                Stand: <span class="current-year">2026</span>
             </p>
         </div>
     </div>
